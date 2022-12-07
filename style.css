@@ -1,10 +1,9 @@
-.my-header {
+#my-header {
     background-color:#2c3e50;
-    height: 70px;
     color: white;
 }
 
-.my-jumbo {
+#my-jumbo {
     background-color:#1abc9c;
     height: 400px;
 }
@@ -12,11 +11,6 @@
 .start {
     text-transform: uppercase;
     font-weight: bold;
-}
-
-.my-row {
-    height: 100%;
-    align-items: center;
 }
 
 .star {
@@ -69,7 +63,6 @@
 .box1 {
     height: 300px;
     background-color: #ba4b63;
-    width: 98%;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -77,7 +70,6 @@
 .box2 {
     height: 300px;
     background-color:#1ea4b6;
-    width: 98%;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -85,7 +77,6 @@
 .box3 {
     height: 300px;
     background-color: #140f0f;
-    width: 98%;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -93,7 +84,6 @@
 .box4 {
     height: 300px;
     background-color: #1c83c1;
-    width: 98%;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -101,7 +91,6 @@
 .box5 {
     height: 300px;
     background-color:#0e38b5;
-    width: 98%;
     margin: 0 auto;
     border-radius: 10px;
 }
@@ -109,12 +98,11 @@
 .box6 {
     height: 300px;
     background-color: #ccb2a3;
-    width: 98%;
     margin: 0 auto;
     border-radius: 10px;
 }
 
-.about {
+#about {
     min-height: 300px;
     background-color: #1abc9c;
 }
